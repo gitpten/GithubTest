@@ -6,7 +6,7 @@ namespace GithubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is master");
+            Console.WriteLine("This is branch1");
         }
     }
 }
